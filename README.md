@@ -14,4 +14,4 @@
   *빵
   **굵게**
   __굵게__
-  
+  ![쿠로미이미지](https://github.com/hyoryeomii/job-seeker/blob/main/ALSeeWallPaper_4038027890.bmp)
