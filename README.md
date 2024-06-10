@@ -28,11 +28,11 @@
 ## 데이터 세트: 데이터셋에 대한 설명 및 출처
 
 
-  잡코리아
-https://m.jobkorea.co.kr/company/1795098/passavgspec?  Page=1&IsAlumniPersonOn=0&Tab=3&IsFavorOn=0&IsAlumniOn=0&VPage=1
+* 잡코리아
+https://m.jobkorea.co.kr/company/1795098/passavgspec?Page=1&IsAlumniPersonOn=0&Tab=3&IsFavorOn=0&IsAlumniOn=0&VPage=1
 
 
-  독취사
+* 독취사
 https://cafe.naver.com/dokchi
 
 ## 모델 설명
