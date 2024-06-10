@@ -36,7 +36,7 @@ https://m.jobkorea.co.kr/company/1795098/passavgspec?Page=1&IsAlumniPersonOn=0&T
 https://cafe.naver.com/dokchi
 
 ## 모델 설명
-처음에는 랜덤 포레스트를 머신러닝에서 매우 널리 사용되는 기본적인 모델 중 하나이기 때문에 사용했었는데, 높은 예측 정확도의 결과가 계속 나오고 데이터의 변동이 있어도 안정적인 성능을 유지하기 때문이다.
+처음에는 랜덤 포레스트를 머신러닝에서 매우 널리 사용되는 기본적인 모델 중 하나이기 때문에 사용했었는데, 높은 예측 정확도의 결과가 계속 나오고 데이터의 변동이 있어도 안정적인 성능을 유지하기 때문입니다.
 
 ## 모델 평가에 사용된 지표와 결과
   ![그래프이미지](https://github.com/hyoryeomii/job-seeker/blob/main/%ED%91%9C.png)
