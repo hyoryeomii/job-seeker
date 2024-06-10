@@ -28,6 +28,7 @@
 ## 데이터 세트: 데이터셋에 대한 설명 및 출처
 
 
+__아래와 같은 사이트에서 직접 수집하여 데이터를 생성했습니다.__
 * 잡코리아
 https://m.jobkorea.co.kr/company/1795098/passavgspec?Page=1&IsAlumniPersonOn=0&Tab=3&IsFavorOn=0&IsAlumniOn=0&VPage=1
 
