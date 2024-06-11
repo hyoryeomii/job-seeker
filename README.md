@@ -63,6 +63,8 @@ https://cafe.naver.com/dokchi
   ![그래프이미지](https://github.com/hyoryeomii/job-seeker/blob/main/%ED%91%9C.png)
 
 
-## 나의 합격 확률은?!?
+## 나의 합격 확률은?!?(구현해보기)
+__실제 제 스펙 아닙니다 아무튼 아님__
+![구현](https://github.com/hyoryeomii/job-seeker/blob/main/%EA%B5%AC%ED%98%84.png)
 
 
