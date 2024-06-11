@@ -66,9 +66,6 @@ https://cafe.naver.com/dokchi
 
 
 ## 나의 합격 확률은?!?(구현해보기)
-__실제 제 스펙 아닙니다 아무튼 아님__
 
 * 확률에서 0.4: 불합격 확률, 0.6: 합격 확률입니다.
 ![구현](https://github.com/hyoryeomii/job-seeker/blob/main/%EA%B5%AC%ED%98%84.png)
-
-
