@@ -15,7 +15,7 @@
 
 ## 필요한 라이브러리(버전) 또는 프로그램 목록 
   * pandas: 2.0.3 
-  * scikit-learn': 1.2.2
+  * scikit-learn: 1.2.2
   * numpy: 1.25.2
   * matplotlib: 3.7.1
 
