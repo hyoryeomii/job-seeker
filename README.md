@@ -61,3 +61,8 @@ https://cafe.naver.com/dokchi
 ## 모델 평가에 사용된 지표와 결과
 * F1-score, Recall, Precision, Accuracy
   ![그래프이미지](https://github.com/hyoryeomii/job-seeker/blob/main/%ED%91%9C.png)
+
+
+## 나의 합격 확률은?!?
+
+
